@@ -1,0 +1,10 @@
+@font-face {
+    font-family: "Roboto";
+    src: url(assets/fuentes/Roboto/Roboto-Medium.ttf);
+}
+
+
+.myTitle {
+font-family:"Roboto";
+	
+}
